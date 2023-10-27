@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dinesh4rj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @dineshj
+- 👀 I’m interested in Creating Webpages
+- 🌱 I’m currently learning Full stack developer (MERN)
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me on premdinesh5@gmail.com
 
 <!---
 dinesh4rj/dinesh4rj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
