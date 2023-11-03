@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dineshj
-- 👀 I’m interested in Creating Webpages
+- 👋 Hi, I’m @dinesh
+- 👀 I’m interested in web Applications , Webpages 
 - 🌱 I’m currently learning Full stack developer (MERN)
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me on premdinesh5@gmail.com
